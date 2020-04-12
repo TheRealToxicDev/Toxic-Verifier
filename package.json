@@ -1,0 +1,17 @@
+{
+  "name":"ToxicVerifier",
+  "version":"1.0.2",
+  "description":"Super basic verification bot for Discord",
+  "main":"verify.js",
+  "license":"Unlicense",
+  "engines":{
+    "node":"11"
+  },
+  "scripts": {
+    "start": "node verify.js"
+  },
+  "Author": "Toxic Dev",
+  "dependencies":{
+    "discord.js":"discordjs/discord.js"
+  }
+} 
