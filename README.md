@@ -1,4 +1,4 @@
-# basicverify
+# Toxic Verifier
 
 > A simple yet functional [Discord](https://discordapp.com/) verification bot for new members. Please contact `☣ Tσxιƈ Dҽʋ ☣#7308` for help setting up this bot!
 
