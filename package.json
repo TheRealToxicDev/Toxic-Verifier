@@ -1,6 +1,6 @@
 {
   "name":"ToxicVerifier",
-  "version":"1.0.2",
+  "version":"2.0.0",
   "description":"Super basic verification bot for Discord",
   "main":"verify.js",
   "license":"Unlicense",
