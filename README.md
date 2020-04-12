@@ -139,12 +139,7 @@ So.....assuming you don't have any overrides, this will work 🏆
 ---
 
 ### Getting a Bot Token and Invite Link
-
-Short guide for those who need it: [get a token and client ID, and generate an invite link for the bot](https://gist.github.com/shikhir-arora/34c76e50830a81f8b17bd79c5ebf61fc#file-makebot-md) 
-
-There are better guides out there, but most who would use this kind of tool likely are fine with getting this part finished. But, [here is a good guide from jagrosh - this page applies for getting a token and client ID](https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token)
-
-Once you do get the client ID and token, for the invite link, if you wish I have populated a pre-made form: https://discordapi.com/permissions.html#470109248 in which you can enter your bot client ID in and it will generate the proper invite link with permissions and the bot will be assigned a role that is the name of your Bot application upon joining the server (so if you call the bot Verify, it will get a role called Verify with the right permissions - if that link is used)
+[here is a good guide from jagrosh - this page applies for getting a token and client ID](https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token)
 
 ---
 
@@ -152,7 +147,7 @@ Once you do get the client ID and token, for the invite link, if you wish I have
 
 - Invite the bot using the link to your server. It will show offline until we start it.
 
-- `cd` to your directory if you haven't already. By this step I assume you have ran the `npm install -g` and should see a `node_modules` folder, a `verify.js` file, and a README file. Inside that directory, which I am assuming is `basicverify` if you followed the first step, simply use node to install.
+- `cd` to your directory if you haven't already. By this step I assume you have ran the `npm install -g` and should see a `node_modules` folder, a `verify.js` file, and a README file. Inside that directory, which I am assuming is `Toxic-Verifier` if you followed the first step, simply use node to install.
 
 - **NOTE:** Make sure you have your `verify.js` configured (the strings edited to your desire). Again, if you look at the `verify.js` file it has all the comments for information on changing the strings, and by default it has our base implementation. 
 
