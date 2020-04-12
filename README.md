@@ -79,7 +79,7 @@ Where:
 `token:` your bot's token.
 `guild:` the guild ID (not name) for the bot.
 `role:` the role ID (not name) for the bot to assign upon verification. **Must be a valid/active role, bot must have role-assign permissions.**
-`playing:` the game that the bot shows playing on Discord. `Ignore this as it is now Set VIA the verify.js File.`
+`playing:` the game that the bot shows playing on Discord.
 
 
 - Save the changes and continue onwards.
