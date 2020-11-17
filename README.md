@@ -271,7 +271,7 @@ There's a lot more to tmux, but that's all you need for this if you do decide to
 ---
 
 ## IMPORTANT NOTICE
-Please make sure you are allowing intents for the bot to be able to send DMs.
+As per Discords newest update you must allow intents for the bot to be able to send DMs.
 ![04A9420E-4DF7-4B33-A3F2-5733866C6A36](https://user-images.githubusercontent.com/59587139/99308519-4dd28a80-2815-11eb-85ef-a4ada5dbf801.jpeg)
 
 ## Support
