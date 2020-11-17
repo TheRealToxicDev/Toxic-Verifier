@@ -12,6 +12,6 @@
   },
   "Author": "Toxic Dev",
   "dependencies":{
-    "discord.js":"discordjs/discord.js"
+    "discord.js":"^11.5.1"
   }
 } 
